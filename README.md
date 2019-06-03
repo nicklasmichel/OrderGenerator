@@ -1,2 +1,2 @@
 # OrderGenerator
-Random order creator for limit order books
+Random order generator for limit order books
